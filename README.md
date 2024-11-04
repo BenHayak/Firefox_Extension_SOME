@@ -8,3 +8,4 @@ Returns a string representing a target reference for active DOM elements designe
 
 Downlad via Firefox store:
 
+https://addons.mozilla.org/en-US/firefox/addon/same-origin-method-execution/
